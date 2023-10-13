@@ -1,6 +1,4 @@
-Tất nhiên! Dưới đây là một mẫu giới thiệu cho một kho lưu trữ (repository) của một siêu thị:
 
----
 
 **Tên Repository:** SuperMartPOS
 
