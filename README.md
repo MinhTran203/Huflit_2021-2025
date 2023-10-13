@@ -32,4 +32,4 @@ Mục tiêu của SuperMartPOS là cung cấp một hệ thống POS đơn giả
 
 ---
 
-Lưu ý rằng mỗi repository sẽ có các thông tin và mô tả cụ thể dựa trên dự án cụ thể. Điều quan trọng là cung cấp thông tin mô tả chi tiết và rõ ràng để người khác có thể hiểu được mục tiêu và tính năng của dự án.
+Lưu ý rằng mỗi repository sẽ có các thông tin và mô tả cụ thể dựa trên dự án cụ thể. 
